@@ -19,6 +19,7 @@ const Orders = () => {
         {},
         { headers: { authorization: `Bearer ${token}` } }
       );
+      console.log(response.data);
       if (response.data.success) {
         let allOrdersItem = [];
         response.data.orders.map((order) => {
