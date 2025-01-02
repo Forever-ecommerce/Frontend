@@ -21,7 +21,7 @@ const Contact = () => {
             Basheer Road <br /> SM Street, Calicut
           </p>
           <p className="text-gray-500">
-            Tel : +91 123 456 789 <br /> Email : 015kk@example.com
+            Tel : +91 789452222 <br /> Email : cartify@gmail.com
           </p>
           <p className="font-semibold text-xl text-gray-600">
             Careers at Forever
