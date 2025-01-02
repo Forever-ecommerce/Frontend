@@ -18,7 +18,7 @@ const Contact = () => {
         <div className="flex flex-col justify-center items-start gap-6">
           <p className="font-semibold text-xl text-gray-600">Our Store</p>
           <p className="text-gray-500 ">
-            Basheer Road <br /> SM Street, Calicut
+            Basheer Road <br />  Calicut
           </p>
           <p className="text-gray-500">
             Tel : +91 789452222 <br /> Email : cartify@gmail.com
